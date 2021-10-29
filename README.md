@@ -1,4 +1,4 @@
-# Castle-Runner
+# Castle Runner
 
 My final project for my Introduction to Computer Science class, made in 2019.
 
