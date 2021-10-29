@@ -67,6 +67,7 @@ public class UserProjectile
     }
     
     //detectCollision method (tells if the projectile has made contact with an enemy)
+    /*
     public boolean detectCollision(Enemy e)
     {
         boolean output = false;
@@ -79,6 +80,7 @@ public class UserProjectile
             output = false;
         return output;
     }
+    */
     
     //detectCollision method (tells if the projectile has made contact with an enemy)
     public boolean detectCollision(Enemy2 e)
