@@ -6,7 +6,7 @@ My final project for my Introduction to Computer Science class, made in 2019.
 
 Castle Runner is a game in which the objective is to kill all 50 enemies. The enemies come in two types, melee (blue) and ranged (white or light gray). The melee enemies are fast while the ranged enemies are slow, but each shoot out one projectile at a time.
 
-The player has two capacities, one for health and one for mana, and both start off as 100 at the beginning. The player loses 15 HP whenever they are struck by an enemy projectile, but their health regenerates. On the other hand, if they come in direct contact with any enemy, they will die. The player's mana is subtracted by 5 whenever they shoot a projectile, and the maximum number of user projectiles on the screen at one time is 3. The mana also regenerates, but at a slow pace.
+The player (pink) has two capacities, one for health and one for mana, and both start off as 100 at the beginning. The player loses 15 HP whenever they are struck by an enemy projectile, but their health regenerates. On the other hand, if they come in direct contact with any enemy, they will die. The player's mana is subtracted by 5 whenever they shoot a projectile, and the maximum number of user projectiles on the screen at one time is 3. The mana also regenerates, but at a slow pace.
 
 The game ends when the player wins or loses. The player wins if they defeat all 50 enemies without dying. The player loses if their health reaches 0 or if any enemy makes it to the left side of the screen.
 
